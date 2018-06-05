@@ -25,21 +25,21 @@
 #   end #end the loop
 # end #end the method
 
-def dance
-  moves_completed = 0
+# def dance
+#   moves_completed = 0
   
-  while moves_completed < 10
-  puts "To the right, to the right"
-  puts "To the left, to the left"
-  puts "Now kick, now kick"
-  puts "Now walk it out"
+#   while moves_completed < 10
+#   puts "To the right, to the right"
+#   puts "To the left, to the left"
+#   puts "Now kick, now kick"
+#   puts "Now walk it out"
   
-  moves_completed += 1
+#   moves_completed += 1
   
-  puts "#{moves_completed} move(s) completed!"
+#   puts "#{moves_completed} move(s) completed!"
   
-end #end while
+# end #end while
 
-end #end method
+# end #end method
 
-dance
+# dance
